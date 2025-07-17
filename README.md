@@ -1,6 +1,6 @@
-# Zenth SIP Server
+# Zenko VoIP Server
 
-**Zenth SIP Server** is a fully open-source, sovereign SIP/VoIP solution developed as part of the Zenth Cloud ecosystem by Sky Genesis Enterprise. It provides a modular, secure, and extensible platform for real-time voice communication using open standards like SIP and RTP.
+**Zenko VoIP Server** is a fully open-source, sovereign SIP/VoIP solution developed as part of the Zenth Cloud ecosystem by Sky Genesis Enterprise. It provides a modular, secure, and extensible platform for real-time voice communication using open standards like SIP and RTP.
 
 ## 🚀 Features
 
@@ -15,7 +15,7 @@
 
 ## 📦 Part of the Zenth Cloud Stack
 
-Zenth SIP Server is part of the sovereign and ethical Zenth Cloud suite, and integrates seamlessly with:
+Zenko VoIP Server is part of the sovereign and ethical Zenth Cloud suite, and integrates seamlessly with:
 
 - `ldap-server` – User directory
 - `panel-server` – Web administration interface
@@ -26,13 +26,13 @@ Zenth SIP Server is part of the sovereign and ethical Zenth Cloud suite, and int
 
 ## 🛠️ Technology
 
-- SIP stack based on [Asterisk](https://www.asterisk.org/) or [Kamailio](https://www.kamailio.org/) (depending on mode)
+- SIP stack based on [Asterisk](https://www.asterisk.org/)
 - Containerized for deployment in Proxmox, Docker, or Kubernetes
 - AGPLv3 licensed for maximum openness and transparency
 
 ## 📖 Documentation
 
-Full documentation is available in the `/docs` folder or on [Documentations](https://docs.zenthcloud.com).
+Full documentation is available in the `/docs` folder or on [Documentations](https://wiki.zenthcloud.com/voip/zenko).
 
 ## 🛡️ License
 
@@ -40,4 +40,4 @@ This project is licensed under the **GNU Affero General Public License v3 (AGPLv
 
 ---
 
-For contributions, issues, or forks, feel free to open a pull request or start a discussion on [github.com/zenthcloud](https://github.com/zenthcloud).
+For contributions, issues, or forks, feel free to open a pull request or start a discussion on [Github Repo](https://github.com/zenthcloud/zenko/discussions).
